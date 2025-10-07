@@ -32,7 +32,7 @@ These programs help you:
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/yourusername/C-Basics-Programs.git
+   git clone https://github.com/enggahmedfarooq/C-Basics-Programs.git
 Open any .c file in your compiler or IDE (like Turbo C, Code::Blocks, or VS Code).
 
 Compile the program:
